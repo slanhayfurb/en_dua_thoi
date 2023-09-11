@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         m-a-n-g-a-g-o
 // @namespace    https://github.com/slanhayfurb/en_dua_thoi/raw/main/m-a-n-g-a-g-o.user.js
-// @version      2023.09.09
+// @version      2023.09.11
 // @description  down m-a-n-g-a-g-o
 // @author       You
 // @match        https://www.mangago.me/read-manga/*/*/*/
